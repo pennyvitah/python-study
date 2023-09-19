@@ -1,1 +1,1 @@
-print ("therapy")
+print("therapy")
