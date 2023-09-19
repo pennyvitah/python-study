@@ -1,1 +1,1 @@
-print("hello,dog!")
+print("hello,lin is a cute dog!")
